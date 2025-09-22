@@ -1,0 +1,11 @@
+D:\HUTECH\NhuAnh\LTWin\SinhVien\SinhVien\bin\Debug\SinhVien.exe.config
+D:\HUTECH\NhuAnh\LTWin\SinhVien\SinhVien\bin\Debug\SinhVien.exe
+D:\HUTECH\NhuAnh\LTWin\SinhVien\SinhVien\bin\Debug\SinhVien.pdb
+D:\HUTECH\NhuAnh\LTWin\SinhVien\SinhVien\obj\Debug\SinhVien.csproj.AssemblyReference.cache
+D:\HUTECH\NhuAnh\LTWin\SinhVien\SinhVien\obj\Debug\SinhVien.Form1.resources
+D:\HUTECH\NhuAnh\LTWin\SinhVien\SinhVien\obj\Debug\SinhVien.Properties.Resources.resources
+D:\HUTECH\NhuAnh\LTWin\SinhVien\SinhVien\obj\Debug\SinhVien.csproj.GenerateResource.cache
+D:\HUTECH\NhuAnh\LTWin\SinhVien\SinhVien\obj\Debug\SinhVien.csproj.CoreCompileInputs.cache
+D:\HUTECH\NhuAnh\LTWin\SinhVien\SinhVien\obj\Debug\SinhVien.exe
+D:\HUTECH\NhuAnh\LTWin\SinhVien\SinhVien\obj\Debug\SinhVien.pdb
+D:\HUTECH\NhuAnh\LTWin\SinhVien\SinhVien\obj\Debug\SinhVien.exe.config
